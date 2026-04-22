@@ -81,4 +81,10 @@ MODULE Module1
     !Stop;
   ENDPROC
 
+  PROC rAdd_JH_3()
+    !파일 수정/추가 적용 테스트로 루틴 하나 만들어 봤습니다
+    !3번째 수정 히스토리 생성되는지 확인
+    !Stop;
+  ENDPROC
+
 ENDMODULE
