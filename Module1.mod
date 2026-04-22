@@ -69,4 +69,10 @@ MODULE Module1
       LeavePiece;
     ENDWHILE
   ENDPROC
+
+  PROC rAdd_JH()
+    !파일 수정/추가 적용 테스트로 루틴 하나 만들어 봤습니다
+    !Stop;
+  ENDPROC
+
 ENDMODULE
